@@ -18,7 +18,7 @@ Text Analyzer CLI is a command-line tool built with Node.js and Inquirer.js that
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/text-analyzer-cli.git
+   git clone https://github.com/ikhlasafzaal/TextAnalyzer-CLI-TypeScript.git
    ```
 
 2. **Navigate to the project directory:**
